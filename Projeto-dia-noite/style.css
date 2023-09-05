@@ -1,0 +1,22 @@
+.Manha {
+    background-image: url('../Projeto-dia-noite/Dia.jpg');
+    background-repeat: no-repeat;
+}
+
+.Noite {
+    background-image: url('../Projeto-dia-noite/Noite.jpg');
+}
+
+
+
+footer,
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+button {
+    width: 80px;
+}
